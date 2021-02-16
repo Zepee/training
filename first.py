@@ -10,3 +10,5 @@ def fibonachi(number):
 number = 20
 n = fibonachi(number)
 second.repeater(n,10)
+
+print("new fitcha")
